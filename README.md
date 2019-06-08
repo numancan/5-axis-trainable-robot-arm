@@ -1,1 +1,1 @@
-# 5-dof-teachable-robotic-arm
+# 5 DOF Teachable Robotic Arm
