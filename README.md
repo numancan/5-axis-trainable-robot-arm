@@ -1,4 +1,4 @@
-# 5 axis Trainable Robotic Arm
+# 5 axis Trainable Robot Arm
 The robot arm can be easily trained to perform actions by android app and these actions can be saved to the sd card to play what time you want.
 TODO: ÇALIŞMA GİFİ
 
@@ -8,10 +8,9 @@ This robot arm has 5 DOF (degrees of freedom) and I used a servo motor (Tower Pr
 TODO: OVERVİEW
 
 ## Robot arm 3D model
-This pritable and open source robot arm model created by [Danny Van den Heuvel](https://github.com/danny-vdh) and you can find all STL files in [6DOF ROBOT ARM](https://www.thingiverse.com/thing:2465275)  
+This printable and open source robot arm model created by [Danny Van den Heuvel](https://github.com/danny-vdh). You can find all STL files in [6DOF ROBOT ARM](https://www.thingiverse.com/thing:2465275)  
 
 ## Circuit diagram
-To create this diagram used Proteus.
 TODO DEvre şeması
 
 ## How To Use 
