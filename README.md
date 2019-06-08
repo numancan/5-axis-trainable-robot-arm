@@ -7,12 +7,15 @@ This robot arm has 5 DOF (degrees of freedom) and I used a servo motor (Tower Pr
 
 TODO: OVERVİEW
 
-## Robot 3D Model
+## Robot arm 3D model
 This pritable and open source robot arm model created by [Danny Van den Heuvel](https://github.com/danny-vdh) and you can find all STL files in [6DOF ROBOT ARM](https://www.thingiverse.com/thing:2465275)  
 
-## Circuit Diagram
+## Circuit diagram
 To create this diagram used Proteus.
 TODO DEvre şeması
+
+## How To Use 
+TODO: GİF OR VİDEO
 
 ## Author
 TODO:
