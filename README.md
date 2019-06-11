@@ -21,4 +21,4 @@ This printable and open source robot arm model created by [Danny Van den Heuvel]
 
 
 ## Author
-TODO:
+* Numan Can İpekçi [Linkedin](www.linkedin.com/in/numancan)
