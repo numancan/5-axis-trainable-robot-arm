@@ -19,6 +19,3 @@ This printable and open source robot arm model created by [Danny Van den Heuvel]
 <img src="images/circuit-diagram.JPG">
 </p>
 
-
-## Author
-* Numan Can İpekçi [Linkedin](www.linkedin.com/in/numancan)
