@@ -5,7 +5,7 @@ The robot arm can be easily trained to perform actions by android app and these 
 </p>
 
 ## Description
-This robot arm has 5 DOF (degrees of freedom) and I used a servo motor (Tower Pro mg995) to motion in every joint. I used Arduino mega To controlling servo motors. Arduino is communicating with android app via bluetooth. Android app created with Unity3D.
+This robot arm has 5 DOF (degrees of freedom) and I used a servo motor (Tower Pro mg995) to motion in every joint. I used Arduino mega to control servo motors. Arduino is communicating with android app via bluetooth. Android app created with Unity3D.
 
 <p align="center"> 
 <img src="images/overview.png">
